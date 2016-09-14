@@ -4,3 +4,6 @@ C:\RIA\YH2016\Sebastian\GitTest\GitTest\bin\Debug\GitTest.pdb
 C:\RIA\YH2016\Sebastian\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
 C:\RIA\YH2016\Sebastian\GitTest\GitTest\obj\Debug\GitTest.exe
 C:\RIA\YH2016\Sebastian\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\RIA\YH2016\Sebastian\Sebastian\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\RIA\YH2016\Sebastian\Sebastian\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\RIA\YH2016\Sebastian\Sebastian\GitTest\GitTest\obj\Debug\GitTest.pdb
